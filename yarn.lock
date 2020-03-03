@@ -4368,6 +4368,11 @@ fresh@0.5.2:
   resolved "https://registry.yarnpkg.com/fresh/-/fresh-0.5.2.tgz#3d8cadd90d976569fa835ab1f8e4b23a105605a7"
   integrity sha1-PYyt2Q2XZWn6g1qx+OSyOhBWBac=
 
+from-cdn@^1.0.0:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/from-cdn/-/from-cdn-1.0.1.tgz#ba5ec9ceba9c83c2d50e9249ddde50d6ca247afe"
+  integrity sha512-D1zc8sdfR7bRawGaYRNZduRR/fTjB15X0OCulJOKp7PqhgHUkGeTsmNbvIONCq0sMEV2BMkv6vjDY92oslAfRA==
+
 from2@^2.1.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/from2/-/from2-2.3.0.tgz#8bfb5502bde4a4d36cfdeea007fcca21d7e382af"
